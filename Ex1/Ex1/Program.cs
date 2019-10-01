@@ -6,7 +6,8 @@ namespace Ex1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("He-lo Wurrld!");
+            Console.WriteLine("Gottsta choose... Wanna do Euclid or Eratosthenes?");
         }
     }
 }

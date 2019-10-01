@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\basti\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\Ex1.csproj",
+      "projectUniqueName": "D:\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\Ex1.csproj",
       "projectName": "Ex1",
-      "projectPath": "C:\\Users\\basti\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\Ex1.csproj",
+      "projectPath": "D:\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\Ex1.csproj",
       "packagesPath": "C:\\Users\\basti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\basti\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\obj\\",
+      "outputPath": "D:\\Repos\\AD-WiSe2020\\Ex1\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -729,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
